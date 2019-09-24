@@ -29,7 +29,7 @@ This is a commercial application, for more information please access the [produc
 
 ## How to use it
 
-- Buy a **Developer LICENSE** accesing the [product page](https://appseed.us/apps/flask-apps/flask-html5up-paradigm)
+- Buy a **Developer LICENSE** from the [product page](https://appseed.us/apps/flask-apps/flask-html5up-paradigm)
 - Build from sources:
 
 ```
