@@ -47,8 +47,8 @@ def register():
     msg = None
 
     # custommize your pate title / description here
-    page_title       = 'Register - Paradigm design coded in Flask | AppSeed App Generator'
-    page_description = 'HTML5 Up Paradigm design coded in Flask Microframework, registration page.'
+    page_title       = 'Register - Html5 Up design coded in Flask | AppSeed App Generator'
+    page_description = 'HTML5 Up Html5 Up design coded in Flask Microframework, registration page.'
 
     # check if both http method is POST and form is valid on submit
     if form.validate_on_submit():
@@ -96,8 +96,8 @@ def login():
     msg = None
 
     # custommize your page title / description here
-    page_title       = 'Login - Paradigm design coded in Flask | AppSeed App Generator'
-    page_description = 'HTML5 Up Paradigm design coded in Flask Microframework, login page.'
+    page_title       = 'Login - Html5 Up design coded in Flask | AppSeed App Generator'
+    page_description = 'HTML5 Up Html5 Up design coded in Flask Microframework, login page.'
 
     # check if both http method is POST and form is valid on submit
     if form.validate_on_submit():
