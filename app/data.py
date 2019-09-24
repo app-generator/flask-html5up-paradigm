@@ -14,8 +14,8 @@ class Data:
     email      =  'support@appseed.us'
     design     =  'Paradigm by Html5Up'
     
-    seo_title  = 'Flask App - Paradigm design by Html5Up | AppSeed'
-    seo_desc   = 'Flask app with Paradigm design crafted by top Html5Up'
+    seo_title  = 'Flask Paradigm - Built with Automation Tools | AppSeed'
+    seo_desc   = 'Flask app with Paradigm design crafted by Html5Up agency.'
     seo_keys   = 'flask, paradigm, Html5 Up, appseed'
 
     product    = 'https://github.com/app-generator/flask-html5up-paradigm'
